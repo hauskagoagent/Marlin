@@ -499,9 +499,9 @@
   //#define DEFAULT_Kd 440
 
   // Dwarf
-  #define DEFAULT_Kp 47.01
-  #define DEFAULT_Ki 7.17
-  #define DEFAULT_Kd 77.02
+  #define DEFAULT_Kp 33.59
+  #define DEFAULT_Ki 4.56
+  #define DEFAULT_Kd 61.92
 
 #endif // PIDTEMP
 
